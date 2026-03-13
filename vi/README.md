@@ -2,7 +2,7 @@
 
 Máy ảo Vagrant được cô lập để chạy và kiểm thử [OpenClaw](https://github.com/openclaw/openclaw) một cách an toàn — tác nhân AI tự trị mã nguồn mở (trước đây là Moltbot / Clawdbot).
 
-![OpenClaw VM Desktop](screenshot.png)
+![OpenClaw VM Desktop](../screenshot.png)
 
 ## Tại sao dùng VM?
 
